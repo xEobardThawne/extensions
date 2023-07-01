@@ -18,7 +18,7 @@
 
         getInfo() {
             return {
-                id: 'turkeybird07clonetouching',
+                id: 'xeobardthawneclonetouching',
                 name: 'Clone Touching',
                 color1: '#FFAB19',
                 color2: '#EC9C13',
